@@ -1,5 +1,6 @@
 'use strict';
 
+require('dotenv').config();
 const bodyParser = require('body-parser');
 const axios = require('axios');
 
